@@ -1,0 +1,35 @@
+.row {
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+
+.cell {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.wall {
+    background-color: tan;
+}
+
+.boxDestination {
+    background-color: pink;
+    border-radius: 50%;
+}
+
+.box {
+    background-color: brown;
+}
+
+.start {
+    background-color: green;
+}
+
+.player {
+    background-image: url(girlcode.gif);
+    border-radius: 50%;
+}
